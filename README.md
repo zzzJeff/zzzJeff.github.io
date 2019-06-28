@@ -8,7 +8,7 @@ My name is zhuwenjie or you can call me Jeff.I am a freashman,majoring in intere
 ## a pretty pig
 ### Contact
 
-If you want to know me more, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you want to know me more, see 
 
 ### a pretty pig
 If you wander on the road, you must recognize me at the first sight.Oh yes, I am such hard to resist.
